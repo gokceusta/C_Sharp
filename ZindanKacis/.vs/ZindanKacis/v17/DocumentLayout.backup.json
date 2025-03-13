@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokce\\OneDrive\\Masa\u00FCst\u00FC\\C_Sharp\\ZindanKacis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBFA256-EEF7-4500-869D-9AA1B8933DBC}|ZindanKacis.csproj|c:\\users\\gokce\\onedrive\\masa\u00FCst\u00FC\\c_sharp\\zindankacis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBFA256-EEF7-4500-869D-9AA1B8933DBC}|ZindanKacis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokce\\OneDrive\\Masa\u00FCst\u00FC\\C_Sharp\\ZindanKacis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gokce\\OneDrive\\Masa\u00FCst\u00FC\\C_Sharp\\ZindanKacis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:36:04.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

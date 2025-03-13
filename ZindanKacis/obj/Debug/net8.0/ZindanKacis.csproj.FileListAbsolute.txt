@@ -1,0 +1,28 @@
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\bin\Debug\net8.0\ZindanKacis.exe
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\bin\Debug\net8.0\ZindanKacis.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\bin\Debug\net8.0\ZindanKacis.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\bin\Debug\net8.0\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\bin\Debug\net8.0\ZindanKacis.pdb
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\refint\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.pdb
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ZindanKacis.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\C# Projects\ZindanKacis\obj\Debug\net8.0\ref\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\bin\Debug\net8.0\ZindanKacis.exe
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\bin\Debug\net8.0\ZindanKacis.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\bin\Debug\net8.0\ZindanKacis.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\bin\Debug\net8.0\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\bin\Debug\net8.0\ZindanKacis.pdb
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\refint\ZindanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.pdb
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ZindanKacis.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\ZindanKacis\obj\Debug\net8.0\ref\ZindanKacis.dll
