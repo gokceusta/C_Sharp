@@ -1,0 +1,15 @@
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\bin\Debug\net8.0\OrmandanKacis.exe
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\bin\Debug\net8.0\OrmandanKacis.deps.json
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\bin\Debug\net8.0\OrmandanKacis.runtimeconfig.json
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\bin\Debug\net8.0\OrmandanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\bin\Debug\net8.0\OrmandanKacis.pdb
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.AssemblyInfoInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.AssemblyInfo.cs
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.sourcelink.json
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\refint\OrmandanKacis.dll
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.pdb
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\OrmandanKacis.genruntimeconfig.cache
+C:\Users\gokce\OneDrive\Masaüstü\C_Sharp\OrmandanKacis\obj\Debug\net8.0\ref\OrmandanKacis.dll
